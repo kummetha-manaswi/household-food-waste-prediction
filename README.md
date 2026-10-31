@@ -193,7 +193,8 @@ household-food-waste-prediction/
 │   │   └── workflow_diagram.png
 │   │
 │   ├── Data.xls
-│   └── INT234.py
+│   ├── INT234.py
+│   └── research_paper.pdf
 │
 └── README.md
 
