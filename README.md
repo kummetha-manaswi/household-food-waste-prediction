@@ -120,6 +120,21 @@ Exploratory Data Analysis was performed to understand the dataset and identify p
 ![Waste Reasons](Food_Waste_Prediction/images/waste_reasons.png)
 
 ---
+## 📊 Descriptive Statistical Analysis
+
+Descriptive statistical analysis was performed to understand the numerical characteristics of the household food waste dataset.
+
+The following statistical measures were calculated using Pandas:
+
+- **Mean:** Calculates the average value.
+- **Median:** Identifies the middle value.
+- **Mode:** Finds the most frequently occurring value.
+- **Standard Deviation:** Measures the spread of data.
+- **Minimum:** Identifies the smallest value.
+- **Maximum:** Identifies the largest value.
+
+This analysis provides a statistical summary of the dataset and helps understand the distribution of numerical attributes.
+---
 
 ## 🤖 Machine Learning Models
 
