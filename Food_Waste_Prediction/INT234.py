@@ -55,6 +55,17 @@ print(combined.head(10))
 print(df.columns.tolist())
 df = combined.copy()
 
+# Descriptive Statistical Analysis
+
+print("\nDescriptive Statistics")
+numeric_data = df.select_dtypes(include='number')
+print("Mean:\n", numeric_data.mean())
+print("Median:\n", numeric_data.median())
+print("Mode:\n", numeric_data.mode().iloc[0])
+print("Standard Deviation:\n", numeric_data.std())
+print("Minimum:\n", numeric_data.min())
+print("Maximum:\n", numeric_data.max())
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 df["Wasted Percentage"].value_counts().plot(kind="bar")
