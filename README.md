@@ -267,12 +267,12 @@ Execute the Python script to perform data preprocessing, exploratory data analys
 
 ## 🔮 Future Enhancements
 
-- Collect a larger and more diverse household food waste dataset.
-- Explore techniques to handle class imbalance.
-- Perform hyperparameter tuning.
-- Experiment with additional classification algorithms.
-- Develop an interactive dashboard for food waste analysis.
-- Deploy the best-performing model as a web application.
+- Develop a web-based food waste prediction system that helps households estimate potential food waste in advance.
+- Provide early warnings and recommendations based on food purchasing habits, storage methods, household size, and consumption patterns.
+- Build an interactive dashboard to visualize food consumption, waste patterns, and prediction results.
+- Suggest better food purchasing quantities and portion sizes to minimize unnecessary waste.
+- Implement personalized recommendations to improve food storage and leftover management.
+- Deploy the trained machine learning model as a web application for real-time predictions.
 
 ---
 
